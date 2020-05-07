@@ -1,0 +1,1 @@
+{"version":3,"file":"table.js","sourceRoot":"","sources":["../../src/menus/table.tsx"],"names":[],"mappings":";;AAAA,iDAA0C;AAE1C,SAAwB,cAAc;IACpC,OAAO;QACL;YACE,IAAI,EAAE,aAAa;YACnB,OAAO,EAAE,cAAc;YACvB,IAAI,EAAE,yBAAS;YACf,MAAM,EAAE,GAAG,EAAE,CAAC,KAAK;SACpB;KACF,CAAC;AACJ,CAAC;AATD,iCASC"}
